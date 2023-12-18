@@ -1,7 +1,7 @@
 # Fitness Tracker Device Data Analysis: SQL Analysis
 
 ## Overview
-This project involves comprehensive SQL analysis on a dataset from BellaBit, a wellbeing devices manufacturing company, focusing on user activities, sleep patterns, and their interrelations.
+This project involves comprehensive SQL analysis on a dataset from Fitbit( [FitBit Fitness Tracker Data ](https://www.kaggle.com/datasets/arashnic/fitbit)), a wellbeing devices manufacturing company, focusing on user activities, sleep patterns, and their interrelations.
 
 ## Key Objectives
 - Clean and prepare the dataset by removing blank or zero-value entries.
