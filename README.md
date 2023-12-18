@@ -1,4 +1,4 @@
-# Fitness Tracker Device Data Analysis: SQL Analysis
+# BellaBeat Case Study: Data Analysis in SQL
 
 ## Overview
 This project involves comprehensive SQL analysis on a dataset from Fitbit( [FitBit Fitness Tracker Data ](https://www.kaggle.com/datasets/arashnic/fitbit)), a wellbeing devices manufacturing company, focusing on user activities, sleep patterns, and their interrelations.
